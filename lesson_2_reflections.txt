@@ -3,3 +3,7 @@ A whole bunch of hidden files appear to know that this is a git repository, and 
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is in between the two of them. It is a place of transit between working files and repository. It can help you avoid mistakes before commiting.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+Using the staging area you can see what you have already commited. 
